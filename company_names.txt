@@ -1,0 +1,10 @@
+Ivanov 10000.0
+Petrov 15000.0
+Sidorov 25000.1
+Ivanova 15000.7
+Petrova 19000.9
+Sidorova 26000.1
+Oktyabrsky 30000.5
+Petrovsky 26000.4
+Znamensky 12000.0
+Koretzky 31000.9
