@@ -1,0 +1,7 @@
+Gym: - 30(prc) -
+Math: 10(lec) 50(prc) -
+History: 50(lec) - -
+Physics: 70(lec) 20(prc) 18(lab)
+Informatics: 40(lec) 12(prc) 20(lab)
+Literature: 10(lec) - 8(lab)
+Russian: - - 90(lab)
